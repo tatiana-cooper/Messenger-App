@@ -11,4 +11,4 @@ PyQt5_sip == 12.7.2
 # C:\Users\tanya\Desktop\python\2 semester\extra tasks\portfolio_messenger\server.py: 4
 # C:\Users\tanya\Desktop\python\2 semester\extra tasks\portfolio_messenger\utils\client.py: 1
 # C:\Users\tanya\Desktop\python\2 semester\extra tasks\portfolio_messenger\utils\getter.py: 3
-requests == 2.23.0
+requests == 2.31.0
